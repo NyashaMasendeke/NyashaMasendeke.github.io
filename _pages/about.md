@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hello , I'm Nyasha"
+title: "Hello, I'm Nyasha !"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
